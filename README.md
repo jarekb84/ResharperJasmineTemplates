@@ -9,7 +9,7 @@
 5. In the Open Templates File dialog that appears, locate the ResharperJasmineTemplates.DotSettings file you saved.
 6. Click Open.
 
-![Image](Tutorial.gif)
+![Image](media/InstallationTutorial.gif)
 
 ## Use
 
@@ -22,3 +22,4 @@ Supported shortcuts
 * expect
 * it
 
+![Image](media/UsageTutorial.gif)
